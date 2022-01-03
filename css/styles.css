@@ -4,7 +4,7 @@
 }
 
 body {
-    background: linear-gradient(.25turn, rgb(0, 255, 13), 10%, blue);
+    background: linear-gradient(45deg, #7c64e6, #880399);
     display: flex;
     justify-content: center;
     align-items: center;
